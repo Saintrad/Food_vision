@@ -1,4 +1,7 @@
 # Food_vision
+
+This project is part of the TensorFlow for Deep Learning Bootcamp: Zero to Mastery
+
 Food image recognition, pivotal in computer-aided dietary assessment, stands as a cornerstone for health monitoring and nutrition management. This project endeavors not only to explore this domain but to surpass the benchmark set by the pioneering work of DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment.
 
 At the heart of this pursuit lies the Food 101 dataset, a comprehensive repository hosting diverse food categories captured through images. Inspired by the achievements of the DeepFood paper, which attained a notable top-1 accuracy of 77.4%.
